@@ -1,6 +1,6 @@
 # bioart
 
-##Making Art With Opentrons
+## Making Art With Opentrons
 
 I recently recieved an opentrons OT2 and wanted to test it's capabilities, so as a fun starting project I decided to make some petri art.
 
